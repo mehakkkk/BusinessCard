@@ -6,5 +6,5 @@ This app is a basic app created in java. It consist of a business card for a new
 
 
 ## Configuring the app
-<hr>
+
 In order to run the app, you need to install Android Studio.
